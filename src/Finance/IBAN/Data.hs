@@ -104,6 +104,10 @@ structures =
     EG2!n4!n4!n17!n
     ST2!n4!n4!n4!n4!n4!n1!n
     LC2!n4!a4!n4!n4!n4!n4!n4!n
+    UA2!n6!n19!c
+    XK2!n4!n10!n2!n
+    TL2!n3!n14!n2!n
+    MR2!n5!n5!n11!n2!n
 |]
 
 ibanStructureByCountry :: CountryCode -> Maybe IBANStructure
